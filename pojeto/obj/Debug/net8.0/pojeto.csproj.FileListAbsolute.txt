@@ -1,0 +1,15 @@
+C:\Users\fic\Documents\cs\pojeto\obj\Debug\net8.0\pojeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Documents\cs\pojeto\obj\Debug\net8.0\pojeto.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\cs\pojeto\obj\Debug\net8.0\pojeto.AssemblyInfo.cs
+C:\Users\fic\Documents\cs\pojeto\obj\Debug\net8.0\pojeto.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\cs\pojeto\obj\Debug\net8.0\pojeto.sourcelink.json
+C:\Users\fic\Documents\cs\pojeto\bin\Debug\net8.0\pojeto.exe
+C:\Users\fic\Documents\cs\pojeto\bin\Debug\net8.0\pojeto.deps.json
+C:\Users\fic\Documents\cs\pojeto\bin\Debug\net8.0\pojeto.runtimeconfig.json
+C:\Users\fic\Documents\cs\pojeto\bin\Debug\net8.0\pojeto.dll
+C:\Users\fic\Documents\cs\pojeto\bin\Debug\net8.0\pojeto.pdb
+C:\Users\fic\Documents\cs\pojeto\obj\Debug\net8.0\pojeto.dll
+C:\Users\fic\Documents\cs\pojeto\obj\Debug\net8.0\refint\pojeto.dll
+C:\Users\fic\Documents\cs\pojeto\obj\Debug\net8.0\pojeto.pdb
+C:\Users\fic\Documents\cs\pojeto\obj\Debug\net8.0\pojeto.genruntimeconfig.cache
+C:\Users\fic\Documents\cs\pojeto\obj\Debug\net8.0\ref\pojeto.dll
