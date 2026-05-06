@@ -1,0 +1,14 @@
+C:\Users\fic\Documents\cs\inicioCS\bin\Debug\net8.0\inicioCS.exe
+C:\Users\fic\Documents\cs\inicioCS\bin\Debug\net8.0\inicioCS.deps.json
+C:\Users\fic\Documents\cs\inicioCS\bin\Debug\net8.0\inicioCS.runtimeconfig.json
+C:\Users\fic\Documents\cs\inicioCS\bin\Debug\net8.0\inicioCS.dll
+C:\Users\fic\Documents\cs\inicioCS\bin\Debug\net8.0\inicioCS.pdb
+C:\Users\fic\Documents\cs\inicioCS\obj\Debug\net8.0\inicioCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Documents\cs\inicioCS\obj\Debug\net8.0\inicioCS.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\cs\inicioCS\obj\Debug\net8.0\inicioCS.AssemblyInfo.cs
+C:\Users\fic\Documents\cs\inicioCS\obj\Debug\net8.0\inicioCS.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\cs\inicioCS\obj\Debug\net8.0\inicioCS.dll
+C:\Users\fic\Documents\cs\inicioCS\obj\Debug\net8.0\refint\inicioCS.dll
+C:\Users\fic\Documents\cs\inicioCS\obj\Debug\net8.0\inicioCS.pdb
+C:\Users\fic\Documents\cs\inicioCS\obj\Debug\net8.0\inicioCS.genruntimeconfig.cache
+C:\Users\fic\Documents\cs\inicioCS\obj\Debug\net8.0\ref\inicioCS.dll
