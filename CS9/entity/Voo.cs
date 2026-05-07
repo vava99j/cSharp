@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CS9.entity
+namespace CS9
 {
     public class Voo
     {
@@ -12,10 +12,8 @@ namespace CS9.entity
 
 
 
-       public void addpass(Usuario cliente){
-        passageiros.Add(cliente);
-       }
-       public void voo(string _destino, int _dia){
+     
+       public Voo(string _destino, int _dia){
         destino = _destino;
         dia = _dia;
        }

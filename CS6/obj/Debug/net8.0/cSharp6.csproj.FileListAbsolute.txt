@@ -1,0 +1,15 @@
+C:\Users\fic\Documents\cs\cSharp6\obj\Debug\net8.0\cSharp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Documents\cs\cSharp6\obj\Debug\net8.0\cSharp6.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\cs\cSharp6\obj\Debug\net8.0\cSharp6.AssemblyInfo.cs
+C:\Users\fic\Documents\cs\cSharp6\obj\Debug\net8.0\cSharp6.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\cs\cSharp6\obj\Debug\net8.0\cSharp6.sourcelink.json
+C:\Users\fic\Documents\cs\cSharp6\bin\Debug\net8.0\cSharp6.exe
+C:\Users\fic\Documents\cs\cSharp6\bin\Debug\net8.0\cSharp6.deps.json
+C:\Users\fic\Documents\cs\cSharp6\bin\Debug\net8.0\cSharp6.runtimeconfig.json
+C:\Users\fic\Documents\cs\cSharp6\bin\Debug\net8.0\cSharp6.dll
+C:\Users\fic\Documents\cs\cSharp6\bin\Debug\net8.0\cSharp6.pdb
+C:\Users\fic\Documents\cs\cSharp6\obj\Debug\net8.0\cSharp6.dll
+C:\Users\fic\Documents\cs\cSharp6\obj\Debug\net8.0\refint\cSharp6.dll
+C:\Users\fic\Documents\cs\cSharp6\obj\Debug\net8.0\cSharp6.pdb
+C:\Users\fic\Documents\cs\cSharp6\obj\Debug\net8.0\cSharp6.genruntimeconfig.cache
+C:\Users\fic\Documents\cs\cSharp6\obj\Debug\net8.0\ref\cSharp6.dll

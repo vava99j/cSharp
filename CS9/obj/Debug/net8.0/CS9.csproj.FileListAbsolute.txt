@@ -3,3 +3,13 @@ C:\Users\fic\Documents\cs\aulaCs\CS9\obj\Debug\net8.0\CS9.AssemblyInfoInputs.cac
 C:\Users\fic\Documents\cs\aulaCs\CS9\obj\Debug\net8.0\CS9.AssemblyInfo.cs
 C:\Users\fic\Documents\cs\aulaCs\CS9\obj\Debug\net8.0\CS9.csproj.CoreCompileInputs.cache
 C:\Users\fic\Documents\cs\aulaCs\CS9\obj\Debug\net8.0\CS9.sourcelink.json
+C:\Users\fic\Documents\cs\aulaCs\CS9\bin\Debug\net8.0\CS9.exe
+C:\Users\fic\Documents\cs\aulaCs\CS9\bin\Debug\net8.0\CS9.deps.json
+C:\Users\fic\Documents\cs\aulaCs\CS9\bin\Debug\net8.0\CS9.runtimeconfig.json
+C:\Users\fic\Documents\cs\aulaCs\CS9\bin\Debug\net8.0\CS9.dll
+C:\Users\fic\Documents\cs\aulaCs\CS9\bin\Debug\net8.0\CS9.pdb
+C:\Users\fic\Documents\cs\aulaCs\CS9\obj\Debug\net8.0\CS9.dll
+C:\Users\fic\Documents\cs\aulaCs\CS9\obj\Debug\net8.0\refint\CS9.dll
+C:\Users\fic\Documents\cs\aulaCs\CS9\obj\Debug\net8.0\CS9.pdb
+C:\Users\fic\Documents\cs\aulaCs\CS9\obj\Debug\net8.0\CS9.genruntimeconfig.cache
+C:\Users\fic\Documents\cs\aulaCs\CS9\obj\Debug\net8.0\ref\CS9.dll
